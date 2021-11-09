@@ -9,6 +9,7 @@ export default function App() {
       <PrimaryButton>テスト</PrimaryButton>
       <SecondaryButton>検索</SecondaryButton>
       <br />
+      <br />
       <SearchInput />
     </div>
   );
